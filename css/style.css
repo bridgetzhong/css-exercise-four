@@ -4,30 +4,34 @@
 
 
 body {
-  background-color: #FFFFFF;
-  background-image: url ("baku.jpg");
+  background-color: #DDDDDD;
   background-repeat: no-repeat;
   font-size: 10px;
 }
 
 
-h1 {
+.container h1 {
   font-size: 1.5em;
   font-family: sans-serif;
+  letter-spacing: 3px;
   text-transform: uppercase;
   padding-bottom: 8%;
   text-align: center;
   padding-top: 8%;
 }
 
-h3 {
-  font-size: 1.5em;
+.preview h1 {
+  font-family: serif;
+  text-transform: none;
+  letter-spacing: 1px;
+  font-size: 2em;
   padding-left: 5%;
+  text-align: left;
 }
 
 
 .container {
-  background-color: #EEEEEE;
+  background-color: #DDDDDD;
   margin: 0 auto;
 }
 
@@ -41,22 +45,23 @@ h3 {
 }
 
 .baku {
-
+  background-image: url(../images/baku.jpg);
+  width: 100%;
 
 }
 
 .london {
-
+  background-image: url(../images/london.png);
 }
 
 
 .madrid {
-  /***address***/
+  background-image: url(../images/madrid.jpg);
 }
 
 
 .rome {
-
+  background-image: url(../images/rome.jpg);
 }
 
 /**background size**/
