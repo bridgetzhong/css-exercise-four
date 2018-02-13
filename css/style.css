@@ -1,4 +1,62 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
 body {
-  background-color: #dadada;
+  background-color: #FFFFFF;
+  background-image: url ("baku.jpg");
+  background-repeat: no-repeat;
   font-size: 10px;
 }
+
+
+h1 {
+  font-size: 1.5em;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  padding-bottom: 8%;
+  text-align: center;
+  padding-top: 8%;
+}
+
+h3 {
+  font-size: 1.5em;
+  padding-left: 5%;
+}
+
+
+.container {
+  background-color: #EEEEEE;
+  margin: 0 auto;
+}
+
+.title {
+  background-color: #EEEEEE;
+  width: 100%;
+}
+
+.preview {
+  width: 100%;
+}
+
+.baku {
+
+
+}
+
+.london {
+
+}
+
+
+.madrid {
+  /***address***/
+}
+
+
+.rome {
+
+}
+
+/**background size**/
