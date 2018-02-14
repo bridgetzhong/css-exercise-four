@@ -81,10 +81,10 @@ body {
     display: inline-block;
     margin: 2%;
     height: 175px;
-    width: 250px;
+    width: 45%;
   }
   .preview h1 {
-    font-size: 1.5em;
+    font-size: 2em;
     padding: 10% 0 0 20px;
   }
 }
@@ -93,11 +93,11 @@ body {
   .preview {
     display: inline-block;
     margin: 2%;
-    height: 87px;
-    width: 125px;
+    height: 200px;
+    width: 20%;
   }
   .preview h1 {
-    font-size: 1.5em;
+    font-size: 2em;
     padding: 15px 0 0 10px;
   }
 }
